@@ -1,1 +1,1 @@
-# Satyam-s-task
+# simple calculator
